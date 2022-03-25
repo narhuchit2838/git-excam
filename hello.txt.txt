@@ -1,4 +1,0 @@
-first hello
-Cecond Hello
-hello world
-hello You
